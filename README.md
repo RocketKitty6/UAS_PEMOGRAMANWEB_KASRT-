@@ -9,6 +9,3 @@ email : skyganger@gmail.com
 
 pass : Qwertz68!
 
-# Link Youtube :
-
-# Apk Web Iuran Kas Warga :
